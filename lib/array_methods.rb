@@ -8,4 +8,5 @@ end
 
 def find_min_value(array)
   x = array
+  array.length.times
 end
